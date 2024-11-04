@@ -1,6 +1,10 @@
 <h1 align="center">Formulario 😀</h1>  
 <p align="center">Esta aplicación, desarrollada en Python utilizando la biblioteca CustomTkinter, permite la creación y gestión de formularios simples. Los usuarios pueden fácilmente llenar estos formularios, facilitando la recopilación de datos de manera eficiente. Además de esta funcionalidad principal, la aplicación incorpora diversas características adicionales que mejoran la experiencia del usuario y la funcionalidad general.</p>
 
+## **Imagen de referencia ventana principal:**
+<p align="center"><img src="https://i.ibb.co/nzG8w8c/Referencia-app.png" alt="1147447486" border="0"></p>  
+<p align="center"><img src="https://i.ibb.co/pjJHJdL/app1.png" alt="1147447486" border="0"> <img src="https://i.ibb.co/z7FWwjq/app2.png" alt="1147447486" border="0"></p>
+
 <h2>Integrantes:</h2>
 
 - **Laureano Daniel Carranza**
@@ -22,3 +26,6 @@
 4. **Interfaz Intuitiva:** La aplicación cuenta con una interfaz de usuario amigable, gracias a CustomTkinter, que mejora la experiencia general de los usuarios.
 
 5. **Funcionalidades Adicionales:** Se pueden incluir funciones adicionales, como la exportación de resultados, notificaciones por correo electrónico o la posibilidad de compartir formularios con otros usuarios, para hacer la aplicación aún más versátil.
+
+## Diagrama:
+<p align="center"><img src="https://i.ibb.co/Hz4yKZm/diagrama.png" alt="1147447486" border="0"></p>
